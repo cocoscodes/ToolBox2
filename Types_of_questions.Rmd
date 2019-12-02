@@ -25,6 +25,8 @@ Causal - The caveat to a lot of the analyses we’ve looked at so far is that we
 
 Mechanistic - Mechanistic analyses are not nearly as commonly used as the previous analyses - the goal of mechanistic analysis is to understand the exact changes in variables that lead to exact changes in other variables. These analyses are exceedingly hard to use to infer much, except in simple situations or in those that are nicely modeled by deterministic equations. Given this description, it might be clear to see how mechanistic analyses are most commonly applied to physical or engineering sciences; biological sciences, for example, are far too noisy of data sets to use mechanistic analysis. Often, when these analyses are applied, the only noise in the data is measurement error, which can be accounted for.
 
+## Experimenal study design -----
+
 When designing your experiment, it is important to balance your counfounders (randomization) between your experimental group and your control to avoid systematic errors
 
 Replicability reduces the variability and the risk of obtaining results by chance P-value
@@ -36,4 +38,13 @@ hypothesis, essentially an educated guess as to the relationship between your va
 Independent variable (AKA factor): The variable that the experimenter manipulates; it does not depend on other variables being measured. Often displayed on the x-axis.
 
 Dependent variable: The variable that is expected to change as a result of changes in the independent variable. Often displayed on the y-axis, so that changes in X, the independent variable, effect changes in Y.
+
+# Big data -----
+
+Collection can be big on multiple domains
+- velocity 
+- volume 
+- variety 
+- unstructure 
+
 
